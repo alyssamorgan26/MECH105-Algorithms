@@ -6,3 +6,5 @@ These are the algorithms I created for MECH 105 numerical methods.
 - This algorithm can be used to solve systems or equations using the LU factozization method.
 ## Simpson's 1/3 Rule Algorithm
 - This algorithm uses the Simpsons 1/3 method to integrate.
+## Trapezoidal Rule Algorithm
+- This algoritm uses the Trapezoidal rule to integrate.
